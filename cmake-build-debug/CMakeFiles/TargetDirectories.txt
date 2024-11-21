@@ -1,0 +1,3 @@
+C:/Users/jekab/CLionProjects/CalculatorUnlimited/cmake-build-debug/CMakeFiles/CalculatorUnlimited.dir
+C:/Users/jekab/CLionProjects/CalculatorUnlimited/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jekab/CLionProjects/CalculatorUnlimited/cmake-build-debug/CMakeFiles/rebuild_cache.dir
