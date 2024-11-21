@@ -143,6 +143,8 @@ float calculateExpression(string input) {
 
     return values.top();
 }
+
+//Asked chatGPT to trim text, and read everything as a string
 string readAndStripText(const string& filePath) {
     ifstream file(filePath);
     if (!file.is_open()) {
